@@ -8,8 +8,9 @@ Este repositorio contiene un script en Python que genera la secuencia de Fibonac
 ## Ejecución del script
 
 1- Descarga la carpeta comprimida del proyecto o Clonalo con el siguiente comando de Github:
-
-https://github.com/Rogelio-CC/Fibonacci-sequence-python.git
+```bash
+git clone https://github.com/Rogelio-CC/Fibonacci-sequence-python.git
+```
 
 2- Ejecuta el script con el siguiente comando:
 
